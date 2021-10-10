@@ -1,0 +1,24 @@
+{
+  "name": "webscraping-correios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-Yan-Alves/Webscraping-Correios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathan-Yan-Alves/Webscraping-Correios/issues"
+  },
+  "homepage": "https://github.com/Nathan-Yan-Alves/Webscraping-Correios#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.4.0"
+  }
+}
